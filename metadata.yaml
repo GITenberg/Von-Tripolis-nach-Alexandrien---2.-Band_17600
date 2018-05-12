@@ -1,0 +1,30 @@
+_repo: Von-Tripolis-nach-Alexandrien---2.-Band_17600
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rohlfs, Gerhard
+    birthdate: 1831
+    deathdate: 1896
+    gutenberg_agent_id: '5383'
+    url: http://www.gutenberg.org/2009/agents/5383
+    wikipedia: http://de.wikipedia.org/wiki/Gerhard_Rohlfs_%28Afrikaforscher%29
+description: ''
+gutenberg_bookshelf:
+- Africa
+- DE Sachbuch
+gutenberg_issued: '2006-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17600'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Africa, North -- Description and travel'
+title: Von Tripolis nach Alexandrien - 2. Band
+url: http://www.gutenberg.org/ebooks/17600
